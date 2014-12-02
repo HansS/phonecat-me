@@ -1,0 +1,20 @@
+{
+  "name": "phonecat-me",
+  "version": "0.1.0",
+  "description": "angular phonecat tutorial done by hand",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "keywords": [
+    "angular",
+    "tutorial",
+    "phonecat"
+  ],
+  "author": "igor milnar",
+  "license": "MIT"
+}

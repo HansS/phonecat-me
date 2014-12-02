@@ -1,0 +1,29 @@
+{
+  "name": "phonecat-me",
+  "version": "0.1.0",
+  "authors": [
+    "HansS <hans.schenker@netxpert.ch>"
+  ],
+  "description": "angular phonecat tutorial done by hand",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angularjs",
+    "tutorial",
+    "phonecat"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.5",
+    "bootstrap": "~3.3.1"
+  }
+}
