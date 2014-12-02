@@ -1,20 +1,33 @@
 {
   "name": "phonecat-me",
   "version": "0.1.0",
-  "description": "angular phonecat tutorial done by hand",
-  "main": "index.js",
+  "description": "angularjs tutorial",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "qunit": "^0.7.5",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/HansS/phonecat-me.git"
   },
   "keywords": [
-    "angular",
-    "tutorial",
-    "phonecat"
+    "angularjs",
+    "tutorial"
   ],
   "author": "igor milnar",
-  "license": "MIT"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansS/phonecat-me/issues"
+  },
+  "homepage": "https://github.com/HansS/phonecat-me"
 }
